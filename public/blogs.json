@@ -1,0 +1,66 @@
+{
+    "people": [
+        
+      {
+        "cover_photo": "https://i.ibb.co/2MypX7h/img.jpg",
+        "id": "1",
+        "author": "John Smith",
+        "author_img": "https://i.ibb.co/wpGn4V9/47586.jpg",
+        "title": "The Journey of Life",
+        "short_details": "A captivating tale of adventure and self-discovery.",
+        "hashtags": ["#Adventure", "#SelfDiscovery", "#LifeJourney"],
+        "watch_time": 13
+      },
+      {
+        "cover_photo": "https://i.ibb.co/9vydHCj/green-st-patricks-day-background-with-green-hat.jpg",
+        "id": "2",
+        "author": "Emily Johnson",
+        "author_img": "https://i.ibb.co/RNrvW75/10257.jpg",
+        "title": "Echoes of Eternity",
+        "short_details": "Exploring the depths of human emotion and connection.",
+        "hashtags": ["#Knowledge", "#SelfDiscovery", "#LifeJourney"],
+        "watch_time": 7
+      },
+      {
+        "cover_photo": "https://i.ibb.co/vYM8Zsb/funny-dog-wearing-saint-patrick-hat.jpg",
+        "id": "3",
+        "author": "David Brown",
+        "author_img": "https://i.ibb.co/y81FVW6/15527.jpg",
+        "title": "Beyond Horizons",
+        "short_details": "A visionary manifesto for a better world.",
+        "hashtags": ["#Emotion", "#Connection", "#Eternity"],
+        "watch_time": 9
+      },
+      {
+        "cover_photo": "https://i.ibb.co/RH070Kb/green-st-patrick-s-day-background-with-clovers-copy-space.jpg",
+        "id": "4",
+        "author": "Sophia Lee",
+        "author_img": "https://i.ibb.co/PNvDfw1/3542.jpg",
+        "title": "Whispers in the Wind",
+        "short_details": "Mystical tales that stir the imagination and soul.",
+        "hashtags": ["#Visionary", "#Manifesto", "#BetterWorld"],
+        "watch_time": 10
+      },
+      {
+        "cover_photo": "https://i.ibb.co/K6n0V51/3897857.jpg",
+        "id": "5",
+        "author": "S. M. Shamim",
+        "author_img": "https://i.ibb.co/xqbZBzz/Shamim.jpg",
+        "title": "Footprints in the Sand",
+        "short_details": "Reflections on life's moments and their significance.",
+        "hashtags": ["#Mystical", "#Imagination", "#Soul"],
+        "watch_time": 11
+      },
+      {
+        "cover_photo": "https://i.ibb.co/859dfpZ/Get-lucky.jpg",
+        "id": "6",
+        "author": "Robert Hutt",
+        "author_img": "https://i.ibb.co/XkgWgqH/new.jpg",
+        "title": "Why we alive?",
+        "short_details": "Exploring the depths of human emotion and connection.",
+        "hashtags": ["#Reflection", "#Moments", "#Significance"],
+        "watch_time": 3
+      }
+    ]
+  }
+  
